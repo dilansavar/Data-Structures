@@ -1,1 +1,1 @@
-# Data-Structures ÇOMÜ 2019 
+# Data-Structures 2019 
